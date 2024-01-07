@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480055983308",
+    "project_id": "homeworkfirebase-72770",
+    "storage_bucket": "homeworkfirebase-72770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480055983308:android:6b3613b8a612fb9da71669",
+        "android_client_info": {
+          "package_name": "com.example.homework_barisalisaglam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3nnNZFzuB4HirsyKL7taKs2J0uOMY_oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
